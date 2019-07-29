@@ -1,0 +1,26 @@
+.cart_panel {
+	width: 960px;
+	float: left;
+}
+
+.cart_panel span {
+	color: #777777;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.cart_panel_product_name {
+	width: 600px;
+	margin: 0 0 0 87px;
+	float: left;
+}
+
+.cart_panel_product_price {
+	float: left;
+	width: 150px;
+	text-align: center;
+}
+
+.cart_panel_product_count {
+	float: right;
+}
